@@ -26,7 +26,7 @@ chapter: false
 
 &emsp; **Thời gian buổi workshop:** 25/07/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpg)
 
 ### Nội dung báo cáo
 

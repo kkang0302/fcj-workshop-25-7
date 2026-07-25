@@ -8,6 +8,8 @@ pre: " <b> 1. </b> "
 
 # FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!
 
+![Ảnh chụp buổi report](/images/5b7d57fe-df8c-4710-8890-2d1d6832b154.jpg)
+
 Dưới đây là bản **recap theo từng nhóm** dựa trên transcript của buổi **FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!**. Nội dung tập trung vào 4 góc nhìn:
 * **Key highlight** (điểm nổi bật nhất)
 * **Core idea** (ý tưởng sản phẩm)

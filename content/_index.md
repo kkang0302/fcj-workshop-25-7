@@ -31,7 +31,7 @@ chapter: false
 
 &emsp; **Workshop Date:** 25/07/2026
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/avatar.jpg)
 
 ### Report Content
 

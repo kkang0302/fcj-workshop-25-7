@@ -8,6 +8,8 @@ pre: " <b> 1. </b> "
 
 # FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!
 
+![Report Presentation Photo](/images/5b7d57fe-df8c-4710-8890-2d1d6832b154.jpg)
+
 Below is the **recap by team** based on the transcript of the **FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!** event. The content focuses on 4 perspectives:
 * **Key highlight**
 * **Core idea**
