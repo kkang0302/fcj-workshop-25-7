@@ -23,7 +23,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "Workshop Report"
+title = "Workshop Recap"
 weight = 1
 languageName = "English"
 
