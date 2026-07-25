@@ -13,13 +13,13 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Phan Dinh Khang
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0896409070
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** khang.phan0302@hcmut.edu.vn
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** Ho Chi Minh City University of Technology (HCMUT)
 
 &emsp; **Major:** Information Technology
 
@@ -29,16 +29,12 @@ chapter: false
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Workshop Date:** 25/07/2026
 
 ![Your profile picture](/images/avatar.png)
 
 ### Report Content
 
-1.  [Worklog](1-Worklog/)
-2.  [Proposal](2-Proposal/)
-3.  [BlogsPosted](3-BlogsPosted/)
-4.  [Events Participated](4-EventParticipated/)
-5.  [Workshop](5-Workshop/)
-6.  [Self-evaluation](6-Self-evaluation/)
-7.  [Sharing and Feedback](7-Feedback/)
+1.  [Agentic AI Build Week Recap](5-Workshop/)
+2.  [Self-evaluation](6-Self-evaluation/)
+3.  [Sharing and Feedback](7-Feedback/)

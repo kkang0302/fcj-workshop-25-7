@@ -1,31 +1,51 @@
 ---
-title: "Workshop"
-date: 2024-01-01
-weight: 5
+title: "Agentic AI Build Week Recap"
+date: 2026-07-25
+weight: 1
 chapter: false
-pre: " <b> 5. </b> "
+pre: " <b> 1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
-# Secure Hybrid Access to S3 using VPC Endpoints
+# FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!
 
-#### Overview
+Below is the **recap by team** based on the transcript of the **FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!** event. The content focuses on 4 perspectives:
+* **Key highlight**
+* **Core idea**
+* **Lessons learned**
+* **Feelings & feedback on the presentation**
 
-**AWS PrivateLink** provides private connectivity to AWS services from VPCs and your on-premises networks, without exposing your traffic to the Public Internet.
+---
 
-In this lab, you will learn how to create, configure, and test VPC endpoints that enable your workloads to reach AWS services without traversing the Public Internet.
+### Teams:
 
-You will create two types of endpoints to access Amazon S3: a Gateway VPC endpoint, and an Interface VPC endpoint. These two types of VPC endpoints offer different benefits depending on if you are accessing Amazon S3 from the cloud or your on-premises location
-+ **Gateway** - Create a gateway endpoint to send traffic to Amazon S3 or DynamoDB using private IP addresses.You route traffic from your VPC to the gateway endpoint using route tables.
-+ **Interface** - Create an interface endpoint to send traffic to endpoint services that use a Network Load Balancer to distribute traffic. Traffic destined for the endpoint service is resolved using DNS.
+1. **[Team 1 - KFC Ordering Agent (First Prize)](1-Team1/)**
+2. **[Team Signal Scout - Strategic Intelligence Platform (Second Prize)](2-Team2/)**
+3. **[Team BL - AI Solution Architect Assistant](3-Team3/)**
 
-#### Content
+---
 
-1. [Workshop overview](5.1-Workshop-overview)
-2. [Prerequiste](5.2-Prerequiste/)
-3. [Access S3 from VPC](5.3-S3-vpc/)
-4. [Access S3 from On-premises](5.4-S3-onprem/)
-5. [VPC Endpoint Policies (Bonus)](5.5-Policy/)
-6. [Clean up](5.6-Cleanup/)
+# Summary of Key Takeaways from All 3 Teams
+
+| Topic         | Lessons Learned                                                                     |
+| ------------- | ----------------------------------------------------------------------------------- |
+| Problem First | Start with pain points instead of technology                                        |
+| Business      | Always answer: who will use it? why do they need it?                                |
+| MVP           | A working demo is more important than complete features                             |
+| Storytelling  | Use case studies to guide the narrative                                             |
+| Architecture  | Design modular architecture for scalability                                        |
+| Cost          | Knowing how to estimate AWS costs creates a competitive advantage                   |
+| Teamwork      | Debate but align on the direction together                                          |
+| Execution     | A good idea without implementation is practically meaningless                       |
+| Pitching      | Judges care more about how problems are solved than the number of AWS services used  |
+| Networking    | Hackathons are not just for competing, but for building relations & learning        |
+
+## General Feelings about the Presentations
+
+What I appreciated most was that the teams did not just present **"what we built"**, but also shared **"how we thought"**. The key messages that appeared throughout:
+
+* Always start with a **real problem** rather than the technology.
+* In hackathons, **execution and demo** are more critical than an overly ambitious architecture.
+* **Business mindset** and **storytelling** can decide the outcome as much as programming skills.
+* Effective teamwork requires knowing how to debate, but also how to compromise and execute together.
+
+These lessons are valuable not just for hackathons but also for building real-world products later on.

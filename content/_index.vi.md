@@ -6,14 +6,15 @@ chapter: false
 ---
 
 # Báo cáo thực tập
+
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Phan Đình Khang
 
-&emsp; **Số điện thoại:** 0989888999
+&emsp; **Số điện thoại:** 0896409070
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** khang.phan0302@hcmut.edu.vn
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+&emsp; **Trường:** Đại học Bách Khoa
 
 &emsp; **Ngành:** Công nghệ thông tin
 
@@ -23,18 +24,12 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
+&emsp; **Thời gian buổi workshop:** 25/07/2026
 
 ![Ảnh đại diện của bạn](/images/avatar.png)
 
-
-
 ### Nội dung báo cáo
 
-1.  [Worklog](1-Worklog/)
-2.  [Proposal](2-Proposal/)
-3.  [Các bài blogs đã đăng](3-BlogsPosted/)
-4.  [Các events đã tham gia](4-EventParticipated/)
-5.  [Workshop](5-Workshop/)
-6.  [Tự đánh giá](6-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+1.  [Agentic AI Build Week Recap](5-Workshop/)
+2.  [Tự đánh giá](6-Self-evaluation/)
+3.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)

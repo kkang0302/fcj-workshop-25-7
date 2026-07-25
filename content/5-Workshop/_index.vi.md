@@ -1,33 +1,51 @@
 ---
-title: "Workshop"
-date: 2024-01-01
-weight: 5
+title: "Agentic AI Build Week Recap"
+date: 2026-07-25
+weight: 1
 chapter: false
-pre: " <b> 5. </b> "
+pre: " <b> 1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+# FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!
 
+Dưới đây là bản **recap theo từng nhóm** dựa trên transcript của buổi **FCAJ x Agentic AI Build Week Show Up. Build. Pitch. WIN!**. Nội dung tập trung vào 4 góc nhìn:
+* **Key highlight** (điểm nổi bật nhất)
+* **Core idea** (ý tưởng sản phẩm)
+* **Học được gì**
+* **Cảm nhận về phần chia sẻ**
 
-# Đảm bảo truy cập Hybrid an toàn đến S3 bằng cách sử dụng VPC endpoint
+---
 
-#### Tổng quan
+### Các nhóm báo cáo:
 
-**AWS PrivateLink** cung cấp kết nối riêng tư đến các dịch vụ aws từ VPCs hoặc trung tâm dữ liệu (on-premise) mà không làm lộ lưu lượng truy cập ra ngoài public internet.
+1. **[Team 1 - KFC Ordering Agent (First Prize)](1-Team1/)**
+2. **[Team Signal Scout - Strategic Intelligence Platform (Second Prize)](2-Team2/)**
+3. **[Team BL - AI Solution Architect Assistant](3-Team3/)**
 
-Trong bài lab này, chúng ta sẽ học cách tạo, cấu hình, và kiểm tra VPC endpoints để cho phép workload của bạn tiếp cận các dịch vụ AWS mà không cần đi qua Internet công cộng.
+---
 
-Chúng ta sẽ tạo hai loại endpoints để truy cập đến Amazon S3: gateway vpc endpoint và interface vpc endpoint. Hai loại vpc endpoints này mang đến nhiều lợi ích tùy thuộc vào việc bạn truy cập đến S3 từ môi trường cloud hay từ trung tâm dữ liệu (on-premise).
-+ **Gateway** - Tạo gateway endpoint để gửi lưu lượng đến Amazon S3 hoặc DynamoDB using private IP addresses. Bạn điều hướng lưu lượng từ VPC của bạn đến gateway endpoint bằng các bảng định tuyến (route tables)
-+ **Interface** - Tạo interface endpoint để gửi lưu lượng đến các dịch vụ điểm cuối (endpoints) sử dụng Network Load Balancer để phân phối lưu lượng. Lưu lượng dành cho dịch vụ điểm cuối được resolved bằng DNS.
+# Tổng kết những bài học lớn từ cả 3 nhóm
 
-#### Nội dung
+| Chủ đề        | Điều học được                                                                       |
+| ------------- | ----------------------------------------------------------------------------------- |
+| Problem First | Bắt đầu từ pain point thay vì công nghệ                                             |
+| Business      | Luôn trả lời: ai sẽ dùng? vì sao họ cần?                                            |
+| MVP           | Demo chạy được quan trọng hơn làm đầy đủ                                            |
+| Storytelling  | Dùng case study để dẫn dắt                                                          |
+| Architecture  | Thiết kế module dễ mở rộng                                                          |
+| Cost          | Biết ước tính chi phí AWS tạo lợi thế                                               |
+| Teamwork      | Tranh luận nhưng cùng thống nhất hướng đi                                           |
+| Execution     | Ý tưởng tốt nhưng không triển khai được thì gần như vô nghĩa                        |
+| Pitching      | Judge quan tâm nhiều đến cách giải quyết vấn đề hơn là số lượng service AWS sử dụng |
+| Networking    | Hackathon không chỉ để thi mà còn để xây dựng mối quan hệ và học từ các đội khác.   |
 
-1. [Tổng quan về workshop](5.1-Workshop-overview/)
-2. [Chuẩn bị](5.2-Prerequiste/)
-3. [Truy cập đến S3 từ VPC](5.3-S3-vpc/)
-4. [Truy cập đến S3 từ TTDL On-premises](5.4-S3-onprem/)
-5. [VPC Endpoint Policies (làm thêm)](5.5-Policy/)
-6. [Dọn dẹp tài nguyên](5.6-Cleanup/)
+## Cảm nhận chung về buổi chia sẻ
+
+Điểm mình đánh giá cao nhất là các nhóm không chỉ trình bày **"chúng tôi đã xây gì"**, mà còn chia sẻ **"chúng tôi đã nghĩ như thế nào"**. Thông điệp xuất hiện xuyên suốt là:
+
+* Hãy bắt đầu từ **vấn đề thật** thay vì công nghệ.
+* Trong hackathon, **execution và demo** quan trọng hơn một kiến trúc quá tham vọng.
+* **Business mindset** và **storytelling** có thể quyết định kết quả không kém kỹ năng lập trình.
+* Làm việc nhóm hiệu quả đòi hỏi biết tranh luận, nhưng cũng biết thống nhất và cùng thực thi.
+
+Đây là những bài học có giá trị không chỉ cho hackathon mà còn cho việc xây dựng sản phẩm thực tế sau này.

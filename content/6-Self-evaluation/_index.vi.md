@@ -1,9 +1,9 @@
 ---
 title: "Tự đánh giá"
-date: 2024-01-01
-weight: 6
+date: 2026-07-25
+weight: 2
 chapter: false
-pre: " <b> 6. </b> "
+pre: " <b> 2. </b> "
 ---
 
 {{% notice warning %}}
